@@ -1,0 +1,59 @@
+.errorContainer {
+    height: 100vh;
+    width: 100%;
+    background: lightblue;
+    text-align: center;
+    font-family: Bree Serif;
+    ;
+}
+
+.errorContainer h1 {
+    margin-top: 0px;
+    padding-top: 14vh;
+    font-size: 80px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.errorContainer h2 {
+    font-size: 40px;
+    color: #910000;
+    letter-spacing: 2px;
+    margin-top: 0px;
+}
+
+.errorContainer h5 {
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.errorContainer button {
+    padding: 0px;
+    border: none;
+    outline: none;
+}
+
+
+.linkStyle1 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 25px;
+    background: green;
+    border-radius: 7px;
+}
+
+.linkStyle2 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 25px;
+    background: #0257b3;
+    border-radius: 7px;
+}
+
+.errorContainer div {
+    display: flex;
+    gap: 20vw;
+    justify-content: center;
+    margin-top: 8vh;
+}

@@ -1,0 +1,23 @@
+.mainhead{
+    height:5rem;
+    background: #007aff;
+    border-bottom: 1px solid #07acff;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0px 25px;
+}
+.mainhead img{
+    height:3.5rem;
+    filter: invert(1);
+}
+.mainhead button{
+    cursor: pointer;
+    outline: none;
+    background: none;
+    color:white;
+    border:none;
+}
+.mainhead button:hover{
+    text-decoration: underline;
+}

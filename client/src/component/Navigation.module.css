@@ -1,0 +1,27 @@
+.sidenavDiv {
+    width: 220px;
+    height: calc(100vh - 1px - 5rem);
+    background: #007aff;
+}
+.sidenavDiv ul{
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+    
+    border-bottom: 1px solid #004d74;
+}
+.sidenavDiv li{
+    border-bottom: 1px solid #07acff;
+    border-top: 1px solid #004d74;
+    
+}
+.sidenavDiv a{
+    padding: 15px 10px;
+    color: white;
+    text-decoration: none;
+    display:block;
+    width:200px;
+}
+.sidenavDiv a:hover{
+    background: #0257b3;
+}

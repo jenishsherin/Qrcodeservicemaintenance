@@ -1,0 +1,40 @@
+.label1 {
+    width: 100px;
+}
+
+.label2 {
+    width:20px
+}
+.label3 {
+    width:200px
+}
+.alllabel{
+    display:block;
+    padding: 10px;
+}
+.dispdata{
+    display:flex;
+}
+.viewDiv{
+    background: #f9b1ea;
+    width: fit-content;
+    margin: auto;
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 1px #ff08ca;
+}
+.viewMainDiv{
+    width: fit-content;
+    margin: auto;
+}
+.btnstyle{
+    border:none;
+    outline:none;
+    padding:10px 20px;
+    border-radius: 7px;
+}
+.btnstyle:hover{
+    filter:brightness(0.5);
+    color:white;
+}

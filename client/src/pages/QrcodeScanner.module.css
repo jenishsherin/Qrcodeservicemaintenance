@@ -1,0 +1,33 @@
+
+.qrcontainer{
+    text-align: center;
+    height: 100vh;
+   color:white;
+}
+
+.buttonStyle{
+    padding: 15px 30px;
+    font-size: 16px;
+    font-weight: 600;
+    background: #007aff;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    box-shadow: 0px 0px 4px 2px lightgrey;
+    margin-top: 14vh;
+}
+.buttonStyle:hover{
+    background: #0257b3;
+}
+.mainHead{
+    padding-top: 8vh;
+    font-family: Bree Serif;
+    font-size: 45px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+}
+.mainHead1{
+    font-family: Bree Serif;
+    letter-spacing: 1px;
+    font-size: 28px;
+}
